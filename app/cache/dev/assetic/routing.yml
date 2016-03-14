@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /home/vitalik/www-data/w-room.web/app/config/routing_dev.yml
